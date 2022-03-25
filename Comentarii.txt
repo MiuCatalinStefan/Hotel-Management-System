@@ -2,4 +2,6 @@ Aici am incercat sa dezvolt un sistem simplu de management al unui hotel. Am inc
 dar am gandit-o putin cam gresit, si cam secolul 18, si am uitat faptul ca poti face o rezervare pentru saptamana viitoare, 
 asa ca am comentat partea aceea unde se produceau modificarile campului Disponibilitate, ca sa pot termina in timp.
 
+Front-ul l-am pus ca arhiva fiindca era prea mare, si nu m-a lasat sa il pun dintr-o bucata.
+
 Pentru testarea API-ului am folosit PostMan.
